@@ -11,6 +11,22 @@ namespace Harjoitus_9_osa1
         static void Main(string[] args)
         {
             Radio radio = new Radio();
+
+            Kanava Kanava1= new Kanava();
+            Kanava1.Nimi = "Jouluradio";
+            Kanava1.Taajuus = 90.0;
+            Kanava Kanava2= new Kanava();
+            Kanava2.Nimi = "Jumpparadio";
+            Kanava2.Taajuus = 95.0;
+
+            Kanava Kanava3 = new Kanava();
+            Kanava3.Nimi = "Marttakerho";
+            Kanava3.Taajuus = 100.0;
+
+
+            
+
+
             radio.Virta = false;
             radio.Äänenvoimakkuus = 2;
             radio.Taajuus = 94.6;
@@ -56,6 +72,24 @@ namespace Harjoitus_9_osa1
                     Taajuusvastaus = Console.ReadLine();    
                     radio.Taajuus = Convert.ToDouble(Taajuusvastaus);
                     Console.WriteLine("Vaihdoit taajuudeksi:  " + radio.Taajuus);
+
+                    if(radio.Taajuus == Kanava1.Taajuus)
+                    {
+                        Console.WriteLine(" eli " + Kanava1.Nimi);
+                        
+                    }
+                    else if(radio.Taajuus == Kanava2.Taajuus)
+                    {
+                        Console.WriteLine(" eli " + Kanava2.Nimi);
+                    }
+                    else if(radio.Taajuus == Kanava3.Taajuus)
+                    {
+                        Console.WriteLine(" eli " + Kanava3.Nimi);
+                    }
+                    else
+                    {
+                        Console.WriteLine(" Tällä taajuudella ei ole kanavaa.");
+                    }
                 }
                 else
                 {
