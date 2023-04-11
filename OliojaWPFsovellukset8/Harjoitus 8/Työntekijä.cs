@@ -13,7 +13,7 @@ namespace Harjoitus_8
 
         public string Työntekijäntulostus()
         {
-            string Työntekijät = "Nimi: " + Nimi + "\nTyöpaikka: " + Työpaikka + "\nPalkka: " + Palkka + "\nTyötunnit: " + Työtunnit + "\n";
+            string Työntekijät = "Työntekijän nimi: " + Nimi + "\nTyöpaikka: " + Työpaikka + "\nPalkka: " + Palkka + "\nTyötunnit: " + Työtunnit + "\n";
             return Työntekijät;
         }
     }   

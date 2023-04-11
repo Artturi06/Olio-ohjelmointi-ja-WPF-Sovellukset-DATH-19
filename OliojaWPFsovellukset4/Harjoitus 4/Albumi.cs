@@ -14,16 +14,22 @@ namespace Harjoitus_4
         public int hinta { get; set; }
         public string Nimi { get; set; }
 
-        List<Kappale> kappaleet { get; set; }
+        public List<Kappale> kappaleet { get; set; }
 
 
-        public Albumi(string _Artisti, string _Nimi, string _Genre, int _hinta)
+        
+
+        
+
+        public string AlbuminTulostus()
         {
-            Artisti = _Artisti;
-            Nimi = _Nimi;
-            Genre = _Genre;
-            hinta = _hinta;
-            kappaleet= new List<Kappale>();  
+            string Albumitiedot = "Albumi:\n-Artisti: " + Artisti + "\n-Nimi: " + Nimi + "\n-Genre: " + Genre + "\n-Hinta: " + hinta;
+            Albumitiedot = Albumitiedot + "\nKappaleet:\n" + "---" + kappaleet[0].Nimi + " - " + kappaleet[0].Kesto + "\n";
+            Albumitiedot = Albumitiedot + "\nKappaleet:\n" + "---" + kappaleet[1].Nimi + " - " + kappaleet[1].Kesto + "\n";
+            Albumitiedot = Albumitiedot + "\nKappaleet:\n" + "---" + kappaleet[2].Nimi + " - " + kappaleet[2].Kesto + "\n";
+            Albumitiedot = Albumitiedot + "\nKappaleet:\n" + "---" + kappaleet[3].Nimi + " - " + kappaleet[3].Kesto + "\n";
+            Albumitiedot = Albumitiedot + "\nKappaleet:\n" + "---" + kappaleet[4].Nimi + " - " + kappaleet[4].Kesto + "\n";
+            return Albumitiedot;
         }
 
 

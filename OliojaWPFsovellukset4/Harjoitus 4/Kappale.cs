@@ -6,15 +6,19 @@ using System.Threading.Tasks;
 
 namespace Harjoitus_4
 {
-    internal class Kappale
+    public class Kappale
     {
         public string Nimi { get; set; }
         public string Kesto { get; set; }
 
 
-        public static void BiisinTulostus()
+        
+
+
+        public string BiisinTulostus()
         {
-            Console.Write("--- Nimi: " + Nimi + " - " + Kesto);        
+            string Biisi = "-Nimi: " + Nimi + " - " + Kesto + "\n";
+            return Biisi;
         }
     }
 }

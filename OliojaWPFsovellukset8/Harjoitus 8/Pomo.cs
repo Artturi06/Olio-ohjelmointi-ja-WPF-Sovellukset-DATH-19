@@ -21,7 +21,7 @@ namespace Harjoitus_8
 
         public string Pomontulostus()
         {
-            string Pomontiedot = "Nimi: " + Nimi + "\nTyöpaikka: " + Työpaikka + "\nPalkka: " + Palkka + "\nBoonus: " + Boonus + "\nAuto: " + Auto + "\n";
+            string Pomontiedot = "Pomon nimi: " + Nimi + "\nTyöpaikka: " + Työpaikka + "\nPalkka: " + Palkka + "\nBoonus: " + Boonus + "\nAuto: " + Auto + "\n";
             return Pomontiedot; 
         }
 
