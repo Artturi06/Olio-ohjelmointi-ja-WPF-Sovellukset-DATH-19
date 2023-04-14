@@ -38,6 +38,8 @@ namespace Harhoitus_4
             biisi5.Nimi = "Hyvä me";
             biisi5.Kesto = "3:09";
 
+            
+
 
             album1.kappaleet.Add(biisi1);
             album1.kappaleet.Add(biisi2);
