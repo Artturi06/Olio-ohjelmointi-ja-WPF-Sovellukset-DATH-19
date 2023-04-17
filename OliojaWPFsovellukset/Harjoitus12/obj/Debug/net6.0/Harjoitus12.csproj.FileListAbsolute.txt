@@ -1,0 +1,15 @@
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OliojaWPFsovellukset\Harjoitus12\bin\Debug\net6.0\Harjoitus12.exe
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OliojaWPFsovellukset\Harjoitus12\bin\Debug\net6.0\Harjoitus12.deps.json
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OliojaWPFsovellukset\Harjoitus12\bin\Debug\net6.0\Harjoitus12.runtimeconfig.json
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OliojaWPFsovellukset\Harjoitus12\bin\Debug\net6.0\Harjoitus12.dll
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OliojaWPFsovellukset\Harjoitus12\bin\Debug\net6.0\Harjoitus12.pdb
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OliojaWPFsovellukset\Harjoitus12\obj\Debug\net6.0\Harjoitus12.csproj.AssemblyReference.cache
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OliojaWPFsovellukset\Harjoitus12\obj\Debug\net6.0\Harjoitus12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OliojaWPFsovellukset\Harjoitus12\obj\Debug\net6.0\Harjoitus12.AssemblyInfoInputs.cache
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OliojaWPFsovellukset\Harjoitus12\obj\Debug\net6.0\Harjoitus12.AssemblyInfo.cs
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OliojaWPFsovellukset\Harjoitus12\obj\Debug\net6.0\Harjoitus12.csproj.CoreCompileInputs.cache
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OliojaWPFsovellukset\Harjoitus12\obj\Debug\net6.0\Harjoitus12.dll
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OliojaWPFsovellukset\Harjoitus12\obj\Debug\net6.0\refint\Harjoitus12.dll
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OliojaWPFsovellukset\Harjoitus12\obj\Debug\net6.0\Harjoitus12.pdb
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OliojaWPFsovellukset\Harjoitus12\obj\Debug\net6.0\Harjoitus12.genruntimeconfig.cache
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\OliojaWPFsovellukset\Harjoitus12\obj\Debug\net6.0\ref\Harjoitus12.dll
