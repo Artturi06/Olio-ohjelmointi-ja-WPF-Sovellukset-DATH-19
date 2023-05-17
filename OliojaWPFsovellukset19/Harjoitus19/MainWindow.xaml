@@ -1,0 +1,15 @@
+﻿<Window x:Class="HissiWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Hissi" Height="250" Width="400">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content="1" Click="Button_Click"/>
+            <Button Content="2" Click="Button_Click"/>
+            <Button Content="3" Click="Button_Click"/>
+            <Button Content="4" Click="Button_Click"/>
+            <Button Content="5" Click="Button_Click"/>
+            <Button Content="6" Click="Button_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
