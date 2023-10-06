@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WPFsovellukset  laskin 18/1.0.0": {
+        "runtime": {
+          "WPFsovellukset  laskin 18.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPFsovellukset  laskin 18/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
