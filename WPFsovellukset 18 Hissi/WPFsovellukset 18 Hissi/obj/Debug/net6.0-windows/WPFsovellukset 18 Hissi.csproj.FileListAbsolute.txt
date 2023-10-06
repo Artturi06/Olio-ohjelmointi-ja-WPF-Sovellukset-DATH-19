@@ -1,0 +1,20 @@
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\bin\Debug\net6.0-windows\WPFsovellukset 18 Hissi.exe
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\bin\Debug\net6.0-windows\WPFsovellukset 18 Hissi.deps.json
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\bin\Debug\net6.0-windows\WPFsovellukset 18 Hissi.runtimeconfig.json
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\bin\Debug\net6.0-windows\WPFsovellukset 18 Hissi.dll
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\bin\Debug\net6.0-windows\WPFsovellukset 18 Hissi.pdb
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\obj\Debug\net6.0-windows\WPFsovellukset 18 Hissi.csproj.AssemblyReference.cache
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\obj\Debug\net6.0-windows\WPFsovellukset 18 Hissi_MarkupCompile.cache
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\obj\Debug\net6.0-windows\WPFsovellukset 18 Hissi.g.resources
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\obj\Debug\net6.0-windows\WPFsovellukset 18 Hissi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\obj\Debug\net6.0-windows\WPFsovellukset 18 Hissi.AssemblyInfoInputs.cache
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\obj\Debug\net6.0-windows\WPFsovellukset 18 Hissi.AssemblyInfo.cs
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\obj\Debug\net6.0-windows\WPFsovellukset 18 Hissi.csproj.CoreCompileInputs.cache
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\obj\Debug\net6.0-windows\WPFsovellukset 18 Hissi.dll
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\obj\Debug\net6.0-windows\refint\WPFsovellukset 18 Hissi.dll
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\obj\Debug\net6.0-windows\WPFsovellukset 18 Hissi.pdb
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\obj\Debug\net6.0-windows\WPFsovellukset 18 Hissi.genruntimeconfig.cache
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\WPFsovellukset 18 Hissi\WPFsovellukset 18 Hissi\obj\Debug\net6.0-windows\ref\WPFsovellukset 18 Hissi.dll

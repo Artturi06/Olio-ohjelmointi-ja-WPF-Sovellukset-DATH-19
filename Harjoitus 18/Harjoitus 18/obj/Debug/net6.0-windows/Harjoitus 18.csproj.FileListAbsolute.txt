@@ -1,0 +1,3 @@
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitus 18\Harjoitus 18\obj\Debug\net6.0-windows\Harjoitus 18.csproj.AssemblyReference.cache
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitus 18\Harjoitus 18\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\artturi.arajarvi\source\repos\Artturi06\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harjoitus 18\Harjoitus 18\obj\Debug\net6.0-windows\Harjoitus 18_MarkupCompile.cache
