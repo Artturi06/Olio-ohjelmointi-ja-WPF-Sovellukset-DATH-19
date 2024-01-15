@@ -1,0 +1,22 @@
+﻿<Application x:Class="WPFlopputehtäväOIKEA.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPFlopputehtäväOIKEA"
+             xmlns:viewModel="clr-namespace:WPFlopputehtäväOIKEA.MVVM.ViewModel"
+             xmlns:view="clr-namespace:WPFlopputehtäväOIKEA.MVVM.View"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Theme/MenuButtonTheme.xaml"/>
+                <ResourceDictionary Source="Theme/TextBoxTheme.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+
+            <DataTemplate DataType="{x:Type viewModel:HomeViewModel}">
+                <view:HomeView/>
+
+            </DataTemplate>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
